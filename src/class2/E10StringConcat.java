@@ -6,6 +6,6 @@ public class E10StringConcat {
         int age= 20;
         String result=msg+age;
         System.out.println(result);
-        System.out.println("A string" + (10 + 10));
+        System.out.println("A string " + (10 + 10));
     }
 }
