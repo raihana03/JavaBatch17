@@ -1,6 +1,6 @@
 package GroupExercise1;
 
-public class Array1 {
+public class Task1 {
     public static void main(String[] args) {
         /*
          Create a program that uses an array to store a list of temperatures for a week,

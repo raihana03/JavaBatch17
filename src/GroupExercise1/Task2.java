@@ -1,6 +1,6 @@
 package GroupExercise1;
 
-public class Array2 {
+public class Task2 {
     public static void main(String[] args) {
             /*
         Create an array of integer values. After the array is created,
