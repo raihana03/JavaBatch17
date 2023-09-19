@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="JavaSDETBatch17" target="11" />
+      <module name="JavaSDETBatch17" target="16" />
     </bytecodeTargetLevel>
   </component>
 </project>

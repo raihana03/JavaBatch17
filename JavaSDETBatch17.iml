@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
-  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_11">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_16">
     <output url="file://$MODULE_DIR$/target/classes" />
     <output-test url="file://$MODULE_DIR$/target/test-classes" />
     <content url="file://$MODULE_DIR$">
@@ -75,5 +75,6 @@
     <orderEntry type="library" name="Maven: com.sun.activation:jakarta.activation:1.2.2" level="project" />
     <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-safari-driver:4.11.0" level="project" />
     <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-support:4.11.0" level="project" />
+    <orderEntry type="library" name="Maven: javazoom:jlayer:1.0.1" level="project" />
   </component>
 </module>

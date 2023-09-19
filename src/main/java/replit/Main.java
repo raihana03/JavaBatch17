@@ -2,6 +2,9 @@ package replit;
 
 class Main {
 
+    public Main(String city) {
+    }
+
     public static void Main(String[] args) {
         String name= "Mary";
         int rollNo=2;
